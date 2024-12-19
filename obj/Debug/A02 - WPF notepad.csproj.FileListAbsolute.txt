@@ -1,0 +1,48 @@
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\bin\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\bin\Debug\A02 - WPF notepad.exe.config
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.csproj.AssemblyReference.cache
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\MainWindow.g.cs
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\App.g.cs
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad_MarkupCompile.cache
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad_MarkupCompile.lref
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\MainWindow.baml
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.g.resources
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02___WPF_notepad.Properties.Resources.resources
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.csproj.GenerateResource.cache
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.csproj.CoreCompileInputs.cache
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02 - WPF notepad.pdb
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\bin\Debug\A02 - WPF notepad.pdb
+C:\Users\admmo\source\repos\Sem 3\WP\A02 - WPF notepad\obj\Debug\A02___WPF_notepad.AboutBox.resources
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.csproj.AssemblyReference.cache
+C:\Users\admmo\Downloads\a2\obj\Debug\MainWindow.g.cs
+C:\Users\admmo\Downloads\a2\obj\Debug\App.g.cs
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad_MarkupCompile.cache
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad_MarkupCompile.lref
+C:\Users\admmo\Downloads\a2\obj\Debug\MainWindow.baml
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.g.resources
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.pdb
+C:\Users\admmo\Downloads\a2\bin\Debug\A02 - WPF notepad.exe.config
+C:\Users\admmo\Downloads\a2\bin\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\Downloads\a2\bin\Debug\A02 - WPF notepad.pdb
+C:\Users\admmo\Downloads\a2\obj\Debug\A02___WPF_notepad.AboutBox.resources
+C:\Users\admmo\Downloads\a2\obj\Debug\A02___WPF_notepad.Properties.Resources.resources
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.csproj.GenerateResource.cache
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.csproj.CoreCompileInputs.cache
+C:\Users\admmo\Downloads\a2\obj\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\bin\Debug\A02 - WPF notepad.exe.config
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\bin\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\bin\Debug\A02 - WPF notepad.pdb
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.csproj.AssemblyReference.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\MainWindow.g.cs
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\App.g.cs
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad_MarkupCompile.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad_MarkupCompile.lref
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\MainWindow.baml
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.g.resources
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02___WPF_notepad.AboutBox.resources
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02___WPF_notepad.Properties.Resources.resources
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.csproj.GenerateResource.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.csproj.CoreCompileInputs.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.exe
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WP\Projects\A2_WPFNotepad\obj\Debug\A02 - WPF notepad.pdb
