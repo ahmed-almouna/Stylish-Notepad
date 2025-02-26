@@ -1,6 +1,6 @@
 # Notepad
 
-A windows MS-DOS style notepad. Developed using WPF with XAML for the front-end and C# for the back-end.
+A Windows MS-DOS style notepad. Developed using WPF with XAML for the front-end and C# for the back-end.
 
 ## Features:
 - MS-DOS style notepad.
