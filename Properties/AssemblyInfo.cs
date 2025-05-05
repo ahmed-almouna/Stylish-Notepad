@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("A02 - WPF notepad")]
+[assembly: AssemblyTitle("Notepad")]
 [assembly: AssemblyDescription("This is a very basic text editor...")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ahmed Almoune")]
-[assembly: AssemblyProduct("A02 - WPF notepad")]
+[assembly: AssemblyProduct("Notepad")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
