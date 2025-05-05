@@ -17,7 +17,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml.Linq;
 
-namespace A02___WPF_notepad
+namespace Notepad
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

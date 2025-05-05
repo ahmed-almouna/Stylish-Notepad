@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace A02___WPF_notepad
+namespace Notepad
 {
     partial class AboutBox : Form
     {
