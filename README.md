@@ -16,4 +16,3 @@ A Windows MS-DOS style notepad. Developed using WPF with XAML for the front-end 
 * Open the installed folder.
 * Run the program by executing the Notepad.exe in command line or running the solution in Visual Studio.
 * Start using the Notepad!
-
